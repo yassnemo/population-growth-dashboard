@@ -1,0 +1,18 @@
+.header {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+#choropleth-map {
+    height: 600px;
+    margin: 20px 0;
+}
+
+#line-chart {
+    height: 400px;
+}
+
+.slider {
+    padding: 20px;
+}
